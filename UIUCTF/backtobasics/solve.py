@@ -1,0 +1,4 @@
+a = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+key = 100
+print(key.upper())
