@@ -242,6 +242,7 @@ Nhận xét 2:
                 key = char+key
                 print(key)
                 break
+ ```
 
 Mình lụm được key = \'!*SECRETSOURCE*!\', sau đó decrypt lại thôi, dễ ẹc
 vl
@@ -262,7 +263,7 @@ vl
 
 > FLAG: DUCTF{ECB_M0DE_K3YP4D_D474_L34k}
 
-**Treasure**
+# **Treasure**
 
 You and two friends have spent the past year playing an ARG that
 promises valuable treasures to the first team to find three secret
