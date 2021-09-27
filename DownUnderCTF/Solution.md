@@ -208,7 +208,7 @@ Nhận xét 2:
     theo từng block, nên mình tạm sẽ không quan tâm đến 2 block
     đầu(FLAG), mình chỉ attack để lấy key, sau đó khôi phục lại FLAG
 
--   ![image.png](199ca84dd1d748edaf01c85132b79517/159936ad89484e6a27115e54572789b18c07c9d7.png)
+-   ![image.png](199ca84dd1d748edaf01c85132b79517159936ad89484e6a27115e54572789b18c07c9d7.png)
 
 -   Như hình trên, mình sẽ lợi dụng block 3 và 5 để brute force từng kí
     tự một trong KEY, nếu block 3 == block 5, nghĩa là kí tự đó đúng,
