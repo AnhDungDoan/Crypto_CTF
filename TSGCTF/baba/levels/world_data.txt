@@ -1,0 +1,7 @@
+[general]
+firstlevel=1level
+name=Baba is Flag
+
+[levels]
+levelid=1
+
