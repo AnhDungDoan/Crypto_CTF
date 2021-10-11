@@ -2,7 +2,7 @@ import requests
 
 BASE_URL = 'http://125.235.240.166:20104/'
 
-flag = "ASCIS{AES_ECB_is_the_best_crypto"
+flag = ""
 print(len(flag))
 
 for i in range(32, 64):
