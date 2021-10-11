@@ -1,0 +1,1 @@
+spbctf{easy_web_fuzzing_0t5AFzSG0Oc}
