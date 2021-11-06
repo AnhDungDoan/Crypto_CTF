@@ -1,4 +1,5 @@
-import re
+
+from pwn import *
 from Crypto.Util.number import *
 from Crypto.Random import random
 import gmpy2
