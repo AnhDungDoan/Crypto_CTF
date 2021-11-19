@@ -45,7 +45,12 @@ state = [
 
 
 def sub_bytes(s, sbox=s_box):
-    ???
+    ans = ""
+    for i in range(4):
+        for j in range(4):
+            ans = ans + chr(sbox[state[i][j]])
+    
+    return ans
 
 
 print(sub_bytes(state, sbox=inv_s_box))
